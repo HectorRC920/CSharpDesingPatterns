@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\bin\Debug\net8.0\AdapterPattern.exe
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll

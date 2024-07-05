@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\bin\Debug\net8.0\ObserverPattern.exe
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\bin\Debug\net8.0\ObserverPattern.runtimeconfig.json
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\Desarrollo\cursoCSharp\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll
